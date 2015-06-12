@@ -22,5 +22,13 @@
     "tpl2js"
   ],
   "author": "CatalystDP",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatalystDP/gulp-tpl2js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CatalystDP/gulp-tpl2js/issues"
+  },
+  "homepage": "https://github.com/CatalystDP/gulp-tpl2js#readme"
 }
