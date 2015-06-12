@@ -1,7 +1,7 @@
-# gulp-tpl2js #
+# gulp-tpl-to-js #
 ### 该gulp插件主要是将一个目录下的html文件内容生成到一个js文件当中，可以生成位commonjs、cmd、json格式的模板。
 
-__安装:__ `npm install gulp-tpl2js --save-dev`
+__安装:__ `npm install gulp-tpl-to-js --save-dev`
 #### 使用方式：
 ###### 目录结构如下
 

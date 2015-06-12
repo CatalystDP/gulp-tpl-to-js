@@ -1,5 +1,5 @@
 {
-  "name": "gulp-tpl2js",
+  "name": "gulp-tpl-to-js",
   "version": "0.0.1",
   "main": "tpl.js",
   "devDependencies": {
@@ -25,10 +25,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CatalystDP/gulp-tpl2js.git"
+    "url": "git+https://github.com/CatalystDP/gulp-tpl-to-js.git"
   },
   "bugs": {
-    "url": "https://github.com/CatalystDP/gulp-tpl2js/issues"
+    "url": "https://github.com/CatalystDP/gulp-tpl-to-js/issues"
   },
-  "homepage": "https://github.com/CatalystDP/gulp-tpl2js#readme"
+  "homepage": "https://github.com/CatalystDP/gulp-tpl-to-js#readme"
 }
