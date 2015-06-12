@@ -1,0 +1,26 @@
+{
+  "name": "gulp-tpl2js",
+  "version": "0.0.1",
+  "main": "tpl.js",
+  "devDependencies": {
+    "gulp-util": "^3.0.5",
+    "through2": "^2.0.0"
+  },
+  "description": "pack html in folder to a javascript file",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.5",
+    "through2": "^2.0.0"
+  },
+  "scripts": {
+    "test": "cd ./test && gulp"
+  },
+  "keywords": [
+    "tpl2js"
+  ],
+  "author": "CatalystDP",
+  "license": "MIT"
+}
