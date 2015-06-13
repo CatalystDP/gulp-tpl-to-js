@@ -12,7 +12,7 @@ module.exports=function(options){
     options.type=options.type||'commonjs';
     var typeAction={
         'commonjs':'module.exports=%s;',
-        'cmd':'define(function(require,module,exports){module.exports=%s;});',
+        'cmd':'define(function(require,exports,module){module.exports=%s;});',
         'json':'%s'
     };
   var renderedStr=resolve_template(options.dir);
